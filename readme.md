@@ -6,8 +6,10 @@ y salir de el, con la posibilidad de volver a jugar si lo desea.
 
 # Programa final
 
-![](raw.github.com/LeliArevalo/EP01 Trabajo 08/gh-pages/img/Inicio.jpg)
-
+![](raw.github.com/LeliArevalo/EP01-Trabajo-08/master/img/Inicio.jpg)
+![](raw.github.com/LeliArevalo/EP01-Trabajo-08/master/img/Nivel.jpg)
+![](raw.github.com/LeliArevalo/EP01-Trabajo-08/master/img/Puntuacion.jpg)
+![](raw.github.com/LeliArevalo/EP01-Trabajo-08/master/img/Fin.jpg)
 
 # Programa en javascript y JQuery
 
