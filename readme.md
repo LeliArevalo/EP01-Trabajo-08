@@ -224,3 +224,23 @@ function end(segundos, nivel) {
     }
 }
 ```
+En esta función se calcula el tiempo que tiene el usuario para solucuonar el juego
+
+```
+function timer()
+{
+  segundos=60;
+  var tiempo=setInterval(function ()
+  {
+    segundos--;
+    nom_div("tiempo").innerHTML="00:"+ segundos;
+    end(segundos, nivel);
+    if (segundos <= 0) {
+      clearInterval(tiempo);
+    }
+  },1000);
+
+}
+```
+
+Autor: Leidy Arevañp
